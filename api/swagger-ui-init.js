@@ -473,7 +473,7 @@ window.onload = function() {
       },
       "info": {
         "title": "Movies API",
-        "description": "API to manage movies and genres. Swagger has been moved to this application because Vercel is not recognizing. API URL: <a href='https://movies-restful-api.vercel.app/'>https://movies-restful-api.vercel.app/<a/>",
+        "description": "API to manage movies and genres. Swagger has been moved to this application because Vercel is not recognizing.<br>API URL: <a target='_blank' href='https://movies-restful-api.vercel.app/'>https://movies-restful-api.vercel.app</a><br>Repository URL: <a target='_blank' href='https://github.com/sadmagrage/movies-restful-api'>https://github.com/sadmagrage/movies-restful-api</a>",
         "version": "1.0",
         "contact": {}
       },
